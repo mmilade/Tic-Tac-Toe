@@ -7,5 +7,9 @@ files:
              "apothecary"]
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6711
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6711">JetBrains
+    Academy</a></html>
+  time: Mon, 17 Aug 2020 20:27:04 UTC
 record: -1

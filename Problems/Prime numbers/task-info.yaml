@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: prime_numbers = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9515
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Fri, 28 Aug 2020 19:57:10 UTC
+record: -1
